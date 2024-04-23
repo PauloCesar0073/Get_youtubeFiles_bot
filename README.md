@@ -19,4 +19,4 @@ O Get_youtubeFiles_bot é um dos melhores bots do Telegram para baixar vídeos d
 - Baixar trailers de filmes.
 - Baixar vídeos com mais de 50MB.
 
-Para relatar problemas ou abrir chamados, visite [aqui]().
+Para relatar problemas ou abrir chamados, visite [aqui](https://github.com/PauloCesar0073/Get_youtubeFiles_bot/issues/1).
